@@ -4,4 +4,4 @@ Enter a comment  .... (shift+; or :)
 Enter a repeatable comment.... ( ; )
 Enter anterior commnent .... ( insert(ins) )
 Enter posterior comment .... ( shift+insert(ins) )
-To enable auto-comment: Options -> General -> Dissasembly -> display dissasembly line parts -> check on Auto comments
+To enable auto-comment: Options -> General -> Disassembly -> display disassembly line parts -> check on Auto comments
